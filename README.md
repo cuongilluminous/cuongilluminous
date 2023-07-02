@@ -39,4 +39,5 @@ Here are the projects I have developed and implemented:
   </a> 
 </div>
 
-
+<h3 align="left"><strong>Metrics:</strong></h3>
+<img align="center" alt="Metrics" src="/github-metrics.svg" width="1500px">
