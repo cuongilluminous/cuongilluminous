@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">I am<a href="https://www.linkedin.com/in/tranquoccuong2907/">Cuong</a>and welcome to my GitHub profile! <img src="https://media.giphy.com/media/l0IxYVnue90NNygi4/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi!<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">I am<a href="https://www.linkedin.com/in/tranquoccuong2907/"> Cuong </a> and welcome to my GitHub profile! <img src="https://media.giphy.com/media/l0IxYVnue90NNygi4/giphy.gif" width="30px"></h1>
 
 <div>
 <img alt="follower" src="https://img.shields.io/github/followers/cuongilluminous?color=0045BC&style=flat&label=Followers&logo=github"/>
